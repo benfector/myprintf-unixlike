@@ -1,6 +1,8 @@
 # Simple printf() Implementation
 
 ### Improved thanks to Reddit feedback! Thanks everyone, learned a lot! 💚
+### Additionally, I formatted the code with clang-format (Google style) : `clang-format -style=Google -i printf.c`
+
 Educational project to understand how printf() works behind the scenes on Unix-like systems (OpenBSD, FreeBSD, Linux, macOS, etc.).
 
 ## Features 
