@@ -3,7 +3,7 @@ TARGET = myprintf
 
 CC = gcc
 
-SRC_DIRS = src src/types
+SRC_DIRS = new-version-reddit/src new-version-reddit/src/types
 
 SRCS = $(wildcard $(addsuffix /*.c, $(SRC_DIRS)))
 
